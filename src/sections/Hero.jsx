@@ -39,7 +39,7 @@ export default function Hero() {
                 href="#contact" 
                 className="inline-block bg-white text-blue-600 px-6 sm:px-8 py-3 sm:py-4 rounded-xl font-bold shadow-lg hover:shadow-xl hover:scale-105 transition-all duration-300"
                 >
-                    Me contacter
+                    Contactez-moi
                 </a>
                 <a 
                     href="#" 
