@@ -1,18 +1,59 @@
-# React + Vite
+# 🌐 EL'TAH24 — Portfolio professionnel
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Site web : https://eltah24.com  
+Auteur : Ely Tantely TAHINJANAHARY  
+Profil : Administrateur Système & Réseau | Développeur Web  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Description
 
-## React Compiler
+Ce dépôt contient le code source du site **EL'TAH24**, mon portfolio professionnel.  
+Il présente mes compétences en :
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+- Administration système & réseau
+- Infrastructure IT
+- Développement web moderne
+- Projets techniques et réalisations
 
-Note: This will impact Vite dev & build performances.
+Le site est utilisé comme vitrine professionnelle pour les recruteurs, partenaires et clients.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technologies utilisées
+
+- React
+- Vite
+- Tailwind CSS
+- JavaScript (ES6+)
+- HTML5 / CSS3
+- Git & GitHub
+
+---
+
+## 🚀 Déploiement
+
+Le site est déployé automatiquement via **Netlify** à partir de ce repository GitHub.  
+Chaque mise à jour (`git push`) déclenche une nouvelle version du site en ligne.
+
+---
+
+## 📂 Structure du projet
+
+/public → fichiers publics
+/src → code source React
+index.html → point d’entrée
+vite.config.js → configuration Vite
+
+---
+
+## 📬 Contact
+
+Site web : https://eltah24.com  
+GitHub : https://github.com/zazah
+Email : contact@eltah24.com
+Téléphone : +261 34 67 614 73
+
+---
+
+© 2026 – EL'TAH24. Tous droits réservés.
